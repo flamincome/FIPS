@@ -3,7 +3,7 @@ Here is a template to help you to create a proposal to the community.
 It is a format for strong proposal,  you are free to write when on a weak proposal.
 
 ### Title
-`FIIP#` + proposal numbers follows by your actual title.
+`FIP#` + proposal numbers follows by your actual title.
 
 ### Summary
 Describe what this proposal is about.

@@ -15,7 +15,7 @@ For each vote in the four votes, allocate 6.25% of FLAG to Flamincome Project Te
 To avoid from giving too much administration authority to the Flamincome Project Team, you can choose `NO` and the team will not receive any tokens.
 
 ### Proposer
-0x6A1D19dd2c23aEfE673484a048e0683c28aD392B
+0xD4e599e0694612553D2B259Dbdc83eb9c4EF47DC
 
 Link: 
 https://client.aragon.org/#/flamincome/0x24d840dbaa0c0c72589c8f8860063024d1c064db/
