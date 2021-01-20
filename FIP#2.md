@@ -19,7 +19,7 @@ xtoken can be withdrew for XVault without any rewards. In order to prevent frequ
 
 ytoken can be withdrew for YVault with the rewards from XVault and YVault.The actual amount received is the amount after deducting the strategy commission and withdrawal fees.
 
-![image](img/FIP#2_1.png)
+![image](img/FIP2_1.png)
 
 ### For
 Agree with the new Flamincome-V2 model and Support the launch of V2. 
